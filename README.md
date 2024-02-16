@@ -17,4 +17,5 @@
 ## Projects
 
 
-- [Data Science Blog](https://https://medium.com/@santannajp)
+- [Data Science Blog](https://medium.com/@santannajp)
+- [Linkedin](https://medium.com/@santannajp)
