@@ -1,7 +1,7 @@
 # add the following to _config.yml file
 
 title: João Paulo Sant`Anna Pereira
-logo: /assets/img/headshot_circle.png
+logo: /assets/img/headshot_circle_photo.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
